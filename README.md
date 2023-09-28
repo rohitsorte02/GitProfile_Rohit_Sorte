@@ -7,7 +7,7 @@
 - [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rohit_rs0207?igshid=MzRlODBiNWFlZA==)
 
 
-Welcome to my GitHub profile! I'm an Aspiring Web Developer , passionate about Web Development, Data Structures & Algorithms and Problem Solving.
+Welcome to my GitHub profile! I'm an Aspiring Web Developer, passionate about Web Development, Data Structures and algorithms, and Problem Solving.
 
 ## About Me
 
@@ -32,7 +32,7 @@ I'm always open to connecting with fellow developers, tech enthusiasts, and anyo
 - [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/rohit-sorte-72b6b9203)
 - [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rohit.sorte378@gmail.com/)
 
-##Tech Stack
+Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white    )
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
